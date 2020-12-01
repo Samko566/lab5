@@ -1,0 +1,13 @@
+body {
+font-family: Verdana, sans -serif,Georgia;
+}
+.hr{
+border: 1px solid;
+}
+.container{
+  margin-top:10px;
+}
+hr {
+    clear: both;
+    visibility: hidden;
+}
